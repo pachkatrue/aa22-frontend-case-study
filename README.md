@@ -134,15 +134,27 @@ No private performance metrics are published in this case study.
 
 ## Screenshots
 
-Screenshots below show representative public interfaces from the production website:
+The following screenshots are taken from the public production website and show representative frontend scenarios.
 
-- Homepage / mobile experience
-- Product catalog
-- Product page with store availability
-- Vehicle-specific parts catalog
-- Interactive parts diagram
+### Mobile storefront
 
-> Production source code and internal business logic are not public. This case study intentionally documents the frontend scope and publicly visible product experience without exposing proprietary source code, credentials or internal data.
+![AA22 mobile homepage](./aa22-mobile-homepage.png)
+
+### Product catalog and filtering
+
+![AA22 product catalog](./aa22-catalog.png)
+
+### Product page and store availability
+
+![AA22 product page](./aa22-product.png)
+
+### Vehicle-specific parts catalog
+
+![AA22 vehicle-specific catalog](./aa22-vehicle-catalog.png)
+
+### Interactive automotive parts diagram
+
+![AA22 parts diagram](./aa22-parts-diagram.png)
 
 ## Result
 
